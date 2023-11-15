@@ -8,10 +8,9 @@
 }
 
 body{
-  width: 100vw;
   height: 100vh;
-  background-color: #2f3542;
-  color:white;
+  background-color: #f5ebe0;
+  color:black;
   display: flex;
   justify-content: center;
   align-items: center;
